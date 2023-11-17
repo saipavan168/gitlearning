@@ -1,3 +1,6 @@
 Hello I Started learning Git using Linux
 
 I added this line to check git commit
+
+
+I added new line 
